@@ -1,0 +1,6 @@
+name: verificador_modelos
+description: Lógica en Dart de una lista de chequeo digital para verificar modelos de análisis (EA1 - SENA).
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
